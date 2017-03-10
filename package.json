@@ -1,6 +1,6 @@
 {
   "name": "ng-desktop-notifications",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Display desktop notifications to the user.",
   "main": "./src/ng-desktop-notifications.js",
   "scripts": {
