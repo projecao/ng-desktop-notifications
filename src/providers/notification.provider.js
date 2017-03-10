@@ -106,7 +106,6 @@ function NotificationProvider () {
 
             requestPermission()
             {
-                console.log($window)
                 return $q(function (resolve, reject) 
                 {
                     if (!$window.Notification) return reject();
