@@ -1,15 +1,19 @@
 {
   "name": "ng-desktop-notifications",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "description": "Display desktop notifications to the user.",
-  "main": "./dist/ng-desktop-notifications.js",
+  "main": "./src/ng-desktop-notifications.js",
   "scripts": {
     "dev": "rollup -c --watch",
     "build": "rollup -c",
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["notification", "angular", "desktop"],
+  "keywords": [
+    "notification",
+    "angular",
+    "desktop"
+  ],
   "author": "Antério Vieira <anteriovieira@gmail.com>",
   "license": "MIT",
   "repository": {
