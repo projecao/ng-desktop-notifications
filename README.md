@@ -28,12 +28,6 @@ app.controller('MyController', ['desktopNotification', function(desktopNotificat
 
 ```
 
-## Configure
-
-```js
-
-```
-
 ## License
 
 The [MIT](license)
