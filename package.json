@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uni-projecao/ng-desktop-notifications.git"
+    "url": "git+https://github.com/projecao/ng-desktop-notifications.git"
   },
   "dependencies": {
     "angular": "1.6.3"
